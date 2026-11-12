@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1794523217|2302595';
+const CACHE_VERSION = '1794523899|3590600';
 /** @type {string} */
 const CACHE_PREFIX = 'Highvale-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
